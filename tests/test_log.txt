@@ -1,0 +1,14 @@
+INFO     Scheduler:Scheduler.py:18 Starting scheduling for 3 instructions
+INFO     Scheduler:Scheduler.py:167 Scheduling complete: 3 instructions in 2 cycles
+INFO     Scheduler:Scheduler.py:18 Starting scheduling for 4 instructions
+INFO     Scheduler:Scheduler.py:167 Scheduling complete: 4 instructions in 2 cycles
+INFO     Scheduler:Scheduler.py:18 Starting scheduling for 2 instructions
+INFO     Scheduler:Scheduler.py:167 Scheduling complete: 2 instructions in 1 cycles
+INFO     Scheduler:Scheduler.py:18 Starting scheduling for 5 instructions
+INFO     Scheduler:Scheduler.py:167 Scheduling complete: 5 instructions in 3 cycles
+ERROR    Parser:Parser.py:227 ERROR 1: line invalid
+ERROR    Parser:Parser.py:227 ERROR 1: line invalid
+INFO     Scheduler:Scheduler.py:18 Starting scheduling for 1 instructions
+INFO     Scheduler:Scheduler.py:167 Scheduling complete: 1 instructions in 1 cycles
+INFO     Scheduler:Scheduler.py:18 Starting scheduling for 2 instructions
+INFO     Scheduler:Scheduler.py:167 Scheduling complete: 2 instructions in 2 cycles

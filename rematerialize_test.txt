@@ -1,0 +1,3 @@
+loadI 128 => r0
+output 100
+load r0 => r1

@@ -1,0 +1,9 @@
+//NAME: Nick Alamir
+//NETID: na56
+
+This lab supports the help argument (-h) which generates an explanation of the flags
+similar to the one found below.
+
+
+Supported Arguments:
+name: A Linux filepath specifying the input ILOC block.

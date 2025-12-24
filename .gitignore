@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Pytest
+.pytest_cache/
+.coverage
+*.coverage
+htmlcov/
+coverage.xml
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Non-essentials (already moved to Desktop)
+non-essentials/
